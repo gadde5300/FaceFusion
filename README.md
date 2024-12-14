@@ -47,13 +47,4 @@ The goal of FaceFusion is to generate new faces by intelligently combining featu
 - Facial region extraction using **OpenCV**
 - Preprocessed and normalized images
 
----
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/facefusion.git
-
-# Install dependencies
-pip install -r requirements.txt
